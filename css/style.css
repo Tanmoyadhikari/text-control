@@ -1,0 +1,29 @@
+*{margin:0;padding:0;}
+body{font-family:monospace;;}
+.btn_controlller {
+    padding: 0px 46px;
+    font-size: 29px;
+    border: 0;
+    border-radius: 4px;
+    box-shadow: 0 6px 10px #80808052;
+    margin: 8px 17px;
+}
+.btn_controlller:active{
+    background:#101083;
+    color:#fff;
+}
+.btn_controlller:active h2.boro_hobo{
+    color:orange;
+}
+.main_sec {
+    width: 100%;
+    height: 100%;
+    background: #121758;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+.main_sec .sub{
+    text-align:center;
+}
